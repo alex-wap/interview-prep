@@ -22,3 +22,6 @@
 
 ## Notes
 
+* iterate backwards
+* if current is less than previous, subtract
+* if current is greater than previous, add
