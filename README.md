@@ -7,8 +7,8 @@
 - [Algorithms](#algorithms)
 
 ## List of Problems
-- [Anagrams](anagrams/)
-
+- [Anagrams](https://github.com/alex-wap/interview-prep/blob/master/anagrams/anagrams.md)
+- [Roman Numerals](https://github.com/alex-wap/interview-prep/blob/master/roman/romanNumerals.md)
 ## Framework for Solving Problems
 
 1. Write down your input and output for the problem
