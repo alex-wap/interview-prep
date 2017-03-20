@@ -1,5 +1,14 @@
 # Interview Prep
 
+## Table of Contents
+- [List of Problems](#list-of-problems)
+- [Framework for Solving Problems](#framework-for-solving-problems)
+- [Resources](#resources)
+- [Algorithms](#algorithms)
+
+## List of Problems
+- [Anagrams](anagrams/)
+
 ## Framework for Solving Problems
 
 1. Write down your input and output for the problem
@@ -33,4 +42,5 @@
   * Plan for early termination (in if statement)
 7. Test code (for general and edge cases)
 
-
+## Resources
+  * [Guide to Interviews](https://github.com/kdn251/interviews)
