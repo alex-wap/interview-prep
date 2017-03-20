@@ -46,3 +46,4 @@
   * [Get the Job](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#get-the-job)
   * [CS50 YouTube](https://www.youtube.com/watch?v=qIi-tIrcaww&feature=youtu.be&t=2m32s)
   * [Interview Questions in JavaScript](https://github.com/kennymkchan/interview-questions-in-javascript)
+  * [Common Interview Mistakes](https://dandreamsofcoding.com/2012/11/17/screwing-up-the-technical-interview-common-mistakes/)
