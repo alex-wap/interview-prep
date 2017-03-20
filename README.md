@@ -4,7 +4,6 @@
 - [List of Problems](#list-of-problems)
 - [Framework for Solving Problems](#framework-for-solving-problems)
 - [Resources](#resources)
-- [Algorithms](#algorithms)
 
 ## List of Problems
 - [Anagrams](https://github.com/alex-wap/interview-prep/blob/master/anagrams/anagrams.md)
