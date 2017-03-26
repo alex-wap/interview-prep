@@ -11,3 +11,5 @@ Post order DFS - (LRV) 1,3,5,7,2,6,4 (root last)
 ## Method
 
 https://stackoverflow.com/questions/3332947/when-is-it-practical-to-use-dfs-vs-bfs
+
+https://en.wikipedia.org/wiki/Breadth-first_search
