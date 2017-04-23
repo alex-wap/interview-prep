@@ -12,11 +12,11 @@
 1. Hashmap
 2. Helper Function + Subtraction
 
-## Efficiency
+## Time Complexity
 1. O(n)
 2. O(n)
 
-## Space
+## Space Complexity
 1. O(n)
 2. O(n)
 

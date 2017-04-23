@@ -15,11 +15,11 @@
 4. Deletion sort?
 5. Recurisve permutations to match first string
 
-## Efficiency
+## Time Complexity
 1. Time to quick sort: O(n*log(n)) + Time to traverse: O(n) => Final complexity: O(n*log(n))
 2. O(n)
 
-## Space
+## Space Complexity
 1. O(2n) => O(n)
 2. O(n)
 
